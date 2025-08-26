@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Ruthran
 
 steps:
 - script: echo Hello, world!
