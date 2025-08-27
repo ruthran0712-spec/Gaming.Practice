@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: Ruthran  # Replace 'pipeline' with your actual agent pool name
+  name: Default  # Replace 'pipeline' with your actual agent pool name
 
 steps:
 - script: echo Hello, world!
